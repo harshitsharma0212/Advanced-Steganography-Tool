@@ -458,7 +458,7 @@ class StegoUniversalApp:
         self.root = root
         ctk.set_appearance_mode("dark")
         ctk.set_default_color_theme("dark-blue")
-        root.title("Stego Universal — Fixed")
+        root.title("Advanced Steganography Tool")
         root.geometry("1280x860")
         root.minsize(1150, 760)
 
@@ -480,7 +480,7 @@ class StegoUniversalApp:
     def _build_ui(self):
         header = ctk.CTkFrame(self.root)
         header.pack(fill="x", padx=12, pady=(10, 6))
-        ctk.CTkLabel(header, text="Stego Universal — Fixed", font=self.h1).pack(anchor="w", padx=8)
+        ctk.CTkLabel(header, text="Advanced Steganography Tool", font=self.h1).pack(anchor="w", padx=8)
         ctk.CTkLabel(header, text="Hide any file or text — AES-256-GCM encryption. Extract saves files to ./extracted_outputs",
                       font=self.bf, text_color="#cbd5e1").pack(anchor="w", padx=8, pady=(2, 8))
 
