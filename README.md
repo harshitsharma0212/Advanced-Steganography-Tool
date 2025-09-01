@@ -19,19 +19,12 @@ It allows you to hide **text or any file** inside **images, audio, video, or any
 
 ---
 
-## 📸 GUI Preview  
-
-### Main Screen  
-![Main GUI](assets/gui_main.png)  
-
-### Access Animation  
-![Access Granted](assets/access_granted.gif)  
 
 ## 🚀 Installation  
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/advanced-steganography-tool.git
+   git clone https://github.com/harshitsharma0212/advanced-steganography-tool.git
    cd advanced-steganography-tool
 Install dependencies:
 
