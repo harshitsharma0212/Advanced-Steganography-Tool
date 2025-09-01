@@ -1,0 +1,38 @@
+🛠️ Usage
+🔹 Hide Data
+
+Select a cover file (image/audio/video/any).
+
+Select or type your secret text/file.
+
+Enter a password.
+
+Click Hide → Encrypted data will be embedded.
+
+🔹 Extract Data
+
+Select a stego file.
+
+Enter the correct password.
+
+Click Extract → Preview & save hidden content.
+
+🔒 Security
+
+All data is encrypted with AES-256-GCM before embedding.
+
+Wrong password = Access Denied animation.
+
+No raw extraction possible without correct key.
+
+📌 Future Improvements
+
+Cloud sharing support.
+
+Mobile app (Android/iOS).
+
+Multi-layer steganography.
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
