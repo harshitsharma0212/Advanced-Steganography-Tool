@@ -1,0 +1,19 @@
+⚙️ Requirements
+
+Python 3.8+
+
+Libraries:
+
+customtkinter
+
+pillow
+
+pycryptodome
+
+opencv-python
+
+numpy
+
+Install them with:
+
+pip install customtkinter pillow pycryptodome opencv-python numpy
