@@ -5,7 +5,7 @@ Stego Universal — Fixed & Improved
 - Cover: PNG/BMP/JPG (image LSB), WAV (audio LSB), MP4/MOV/AVI (video LSB via OpenCV), or any file (append-mode)
 - Crypto: AES-256-GCM (PBKDF2)
 - GUI: CustomTkinter with tabs, preview, logs, animations
-Author: ChatGPT (tailored)
+Author: Harshit Sharma
 """
 import os
 import struct
